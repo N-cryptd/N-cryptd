@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a aerospace systems engineering student with a passion for STEM. <br>⚡ Some of my interests include air navigation, communications and machine learning. <br>🌱 I am currently learning about deep reinforcement learning, financial modeling and physics-informed neural networks (not at university, just for fun).<br>⚡ In my free time, I enjoy programming any crazy idea for projects related to these topics. <br>🤝Feel free to reach out if you have a project you'd like to work on together. <br>💬You can find more information about my work on my personal website or LinkedIn profile. ;)
+🔭 I am a aerospace systems engineering student with a passion for STEM. <br>⚡ Some of my interests include air navigation, communications and machine learning. <br>🌱 I am currently learning about deep reinforcement learning, financial modeling and physics-informed neural networks (not at university, just for fun).<br>⚡ In my free time, I enjoy programming any crazy idea for projects related to these topics. <br>🤝Feel free to reach out if you have a project you'd like to work on together. <br>💬You can find more information about my work on my personal website or LinkedIn profile. ;) <br> All my repositories are private, and in 2023 I will start publishing them publicly.
 
 
 ## 🌐 Socials:
